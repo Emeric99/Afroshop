@@ -34,7 +34,7 @@ Ein vollständiges E-Commerce-Frontend, entwickelt im Rahmen des Moduls **Softwa
 ## Projektstruktur
 
 ```
-SWE2_Projekt/
+Afroshop/
 ├── index.html         # Startseite
 ├── produkte.html       # Produktkatalog mit Warenkorb
 ├── bestellungen.html   # Bestellübersicht
@@ -59,11 +59,10 @@ SWE2_Projekt/
 
 ```bash
 # Repository klonen
-git clone https://github.com/Emeric99/Projekte.git
-cd Projekte/SWE2_Projekt
+git clone https://github.com/Emeric99/Afroshop.git
+cd Afroshop
 
 # index.html direkt im Browser öffnen
-# (Hinweis: Login/Registrierung benötigt das laufende Backend)
 open index.html
 ```
 
