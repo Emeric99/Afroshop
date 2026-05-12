@@ -64,7 +64,7 @@ cd Projekte/SWE2_Projekt
 
 # index1.html direkt im Browser öffnen
 # (Hinweis: Login/Registrierung benötigt das laufende Backend)
-open index1.html
+open index.html
 ```
 
 ---
