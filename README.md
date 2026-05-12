@@ -35,7 +35,7 @@ Ein vollständiges E-Commerce-Frontend, entwickelt im Rahmen des Moduls **Softwa
 
 ```
 SWE2_Projekt/
-├── index1.html         # Startseite
+├── index.html         # Startseite
 ├── produkte.html       # Produktkatalog mit Warenkorb
 ├── bestellungen.html   # Bestellübersicht
 ├── position.html       # Standortkarte (Leaflet.js)
